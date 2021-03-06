@@ -8,7 +8,7 @@
 .main_div{
     width: 100%;
     height: 100vh;
-    background-image: url('contents/clash-sky.jpg');
+    background-image: url('clash-sky.jpg');
     background-size: 100% 100%;
     position: relative;
 }
